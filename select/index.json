@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ターミナル",
+  "base_artist": "なとり",
+  "createdAt": "2025-12-30T09:21:27.523172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ターミナル・イリュージョン",
+      "artist": "Metal Allegiance feat. Mark Tornillo",
+      "has_synced": false,
+      "path": "select/01_ターミナル・イリュージョン_Metal_Allegiance_feat._Mark_Tornillo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/02_ターミナル_なとり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/03_ターミナル_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/04_ターミナル_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/05_ターミナル_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "ぬゆり",
+      "has_synced": false,
+      "path": "select/06_ターミナル_ぬゆり.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "Nuyuri",
+      "has_synced": false,
+      "path": "select/07_ターミナル_Nuyuri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "Akino Arai",
+      "has_synced": false,
+      "path": "select/08_ターミナル_Akino_Arai.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "ぬゆり feat. GUMI",
+      "has_synced": false,
+      "path": "select/09_ターミナル_ぬゆり_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ターミナル 〜僕ら、あるべき場所〜",
+      "artist": "Luce Twinkle Wink☆",
+      "has_synced": true,
+      "path": "select/10_ターミナル_〜僕ら、あるべき場所〜_Luce_Twinkle_Wink☆.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ターミナル (Instrumental)",
+      "artist": "Annabel",
+      "has_synced": false,
+      "path": "select/11_ターミナル_(Instrumental)_Annabel.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "K",
+      "has_synced": false,
+      "path": "select/12_ターミナル_K.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "ミツメ",
+      "has_synced": true,
+      "path": "select/13_ターミナル_ミツメ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "＋α／あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/14_ターミナル_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ターミナル",
+      "artist": "natori",
+      "has_synced": false,
+      "path": "select/15_ターミナル_natori.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ターミナル",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_ターミナル_なとり.txt"
+    }
+  ]
+}
